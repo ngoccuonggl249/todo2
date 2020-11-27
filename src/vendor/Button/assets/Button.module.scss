@@ -1,0 +1,9 @@
+.button__item {
+  display: inline-block;
+
+  &.active {
+    button {
+      background-color: #3399ff;
+    }
+  }
+}
